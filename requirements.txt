@@ -1,0 +1,14 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+pydantic==1.8.2
+requests==2.25.1
+PyYAML==5.4.1
+Pillow==8.3.0
+Jinja2==3.1.0
+MarkupSafe==2.0.0
+urllib3==1.26.5
+cryptography==3.4.8
+numpy==1.19.5
+Django==3.1.12
+Flask==2.0.3
+Werkzeug==2.0.3
